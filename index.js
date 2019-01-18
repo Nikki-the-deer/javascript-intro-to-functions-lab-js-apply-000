@@ -26,6 +26,6 @@ mixedCase.toLowerCase() === mixedCase; //false
 mixedCase.toUpperCase() === mixedCase; //false
 
 function sayHiToGrandma(string){
-  if (console.log(uppercase)){
+  if (uppercase){
   return "YES INDEED!";}
 }
