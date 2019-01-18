@@ -30,6 +30,6 @@ function sayHiToGrandma(string){
     return "YES INDEED!";
   }
   else{
-    return "I can't hear you.";
+    return "I can't hear you!";
   }
 }
